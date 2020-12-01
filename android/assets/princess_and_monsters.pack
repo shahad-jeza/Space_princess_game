@@ -1,0 +1,68 @@
+
+princess_and_monsters.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idle--1-
+  rotate: false
+  xy: 1, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+jump2
+  rotate: false
+  xy: 103, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+run1
+  rotate: false
+  xy: 205, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+run2
+  rotate: false
+  xy: 307, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+run3
+  rotate: false
+  xy: 409, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+run4
+  rotate: false
+  xy: 511, 1
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+dead
+  rotate: false
+  xy: 613, 25
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+monster1
+  rotate: false
+  xy: 717, 24
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+monster3
+  rotate: false
+  xy: 804, 24
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
